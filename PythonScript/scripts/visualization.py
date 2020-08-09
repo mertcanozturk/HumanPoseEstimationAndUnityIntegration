@@ -39,7 +39,7 @@ class VideoFrames:
 
         return f[1]
 
-
+//deneme test
 def cb_pose(data):
     # get image with pose time
     t = data.header.stamp
